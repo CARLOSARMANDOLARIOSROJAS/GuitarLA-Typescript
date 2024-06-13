@@ -6,7 +6,10 @@
 
 ## Using
 
-Just use the command git clone https://github.com/CARLOSARMANDOLARIOSROJAS/GuitarLA-Typescript/ 
+Just use the following command 
+```bash
+git clone https://github.com/CARLOSARMANDOLARIOSROJAS/GuitarLA-Typescript/ 
+```
 
 ```bash
 npm cd GuitarLA-Typescript
